@@ -4,15 +4,15 @@ Website dinamis bertema **"Portal Edukasi Keamanan Akun Digital"** yang membahas
 
 ## 🛠️ Teknologi
 * **WordPress**, **PHP**, **Apache (XAMPP)**
-* **MariaDB** (database diekspor di `db/database.sql`)[cite: 10]
+* **MariaDB** (database diekspor di `db/database.sql`)
 
 ## 🚀 Cara Menjalankan
-1. Salin folder ini ke `C:\xampp\htdocs\literasi`[cite: 10]
-2. Buat database baru bernama `wp_literasi`, lalu impor file dari `db/database.sql`[cite: 10]
-3. Salin file `wp-config-sample.php` menjadi `wp-config.php` dan sesuaikan kredensial database Anda[cite: 10]
-4. Buka browser dan akses [http://localhost/literasi](http://localhost/literasi)[cite: 10]
+1. Salin folder ini ke `C:\xampp\htdocs\literasi`
+2. Buat database baru bernama `wp_literasi`, lalu impor file dari `db/database.sql`
+3. Salin file `wp-config-sample.php` menjadi `wp-config.php` dan sesuaikan kredensial database Anda
+4. Buka browser dan akses [http://localhost/literasi](http://localhost/literasi)
 
 ## ✍️ Penulis
-* **Nama:** [Brilly darmawan][cite: 10]
-* **NIM:** [09010626006][cite: 10]
-* **Repositori:** [literasi-wordpress](https://github.com/bariliderali1234/literasi-wordpress)[cite: 16]
+* **Nama:** Brilly Darmawan
+* **NIM:** 09010626006
+* **Repositori:** [literasi-wordpress](https://github.com/bariliderali1234/literasi-wordpress)
