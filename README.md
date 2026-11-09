@@ -1,6 +1,6 @@
 # Literasi Digital - Website WordPress
 Tugas mata kuliah Literasi Digital.
-## Teknologi informasi
+## Teknologi 
 - WordPress, PHP, Apache (XAMPP)
 - MariaDB (database diekspor di db/database.sql)
 ## Cara menjalankan
